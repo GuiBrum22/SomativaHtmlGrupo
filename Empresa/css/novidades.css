@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+}
+
+
+.banner{
+    width: 90%;
+    height: 600px;
+    padding: 60px;
+    margin: 0 auto;
+    display: table;
+    background-color: rgb(0, 61, 0);
+}
+
+.banner img {
+    width: 40%;
+    height: 500px;
+    float: right;
+}
+
+.banner .texto{
+    margin-top: 50px;
+    width: 50%;
+    font-size: 22px;
+}
